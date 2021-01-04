@@ -28,4 +28,5 @@
 
 
 
+1. Análisis del movimiento de la ciudadanía y su relación con las defunciones a causa de COVID-19 en Chile. [Herramientas Computacionales]
 
