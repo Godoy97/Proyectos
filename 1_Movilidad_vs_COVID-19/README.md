@@ -17,4 +17,4 @@
     
 ### En otras palabras, no existe una relación directa que muestre que entre mayor movimiento de la población mayores son los casos de muerte producto de COVID-19, esto queda expuesto en diferentes comunas, como lo podemos ver en el PDF resumen, hay casos como la Region de Antofagasta o Ohiggins, donde hay comunas "Blancas", es decir muy baja letalidad pero con alta movilidad, y por otro lado hay comunas como Maipú o Pichilemu con menor movilidad promedio pero mayor tasa de Letalidad. Todo esto en el margen de tiempo desde el 26 de febrero hasta el 30 de agosto del 2020.
 
-### Ahora los invito a reflexionar, ¿Las cuarentenas totales funcionan realmente? Con lo expuesto por medio de este proyecto a nuestro parecer no son la medida más eficaz.
+### Ahora los invito a reflexionar, ¿Las cuarentenas funcionan realmente? Con lo expuesto por medio de este proyecto a nuestro parecer no son la medida más eficaz.
