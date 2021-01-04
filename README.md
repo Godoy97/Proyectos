@@ -25,8 +25,3 @@
     En otras palabras, no existe una relación directa que muestre que entre mayor movimiento de la población mayores son los casos de muerte producto de COVID-19, esto queda expuesto en diferentes comunas, como lo podemos ver en el PDF resumen, hay casos como la Region de Antofagasta o Ohiggins, donde hay comunas "Blancas", es decir muy baja letalidad pero con mucha movilidad, y por otro lado hay comunas como Maipú o Pichilemu con menor movilidad promedio pero mucha mayor tasa de Letalidad.
 
     Ahora los invito a reflexionar, ¿Las cuarentenas totales funcionan realmente? Con lo expuesto por medio de este proyecto a nuestro parecer no son la medida más eficaz.
-
-
-
-1. Análisis del movimiento de la ciudadanía y su relación con las defunciones a causa de COVID-19 en Chile. [Herramientas Computacionales]
-
